@@ -1,0 +1,8 @@
+int a; 
+   float c;
+   
+                   int b;
+print c;
+    print a;
+    
+  print b;  
